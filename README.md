@@ -1,3 +1,5 @@
+![image_alt](https://github.com/eslamelsayed010/paint-brush/blob/474b0529d24e4643dea8e9db639bdfd21c2bc621/Screenshot%202025-01-31%20204926.png)
+
 # Paint Brush Project
 
 ## Overview
